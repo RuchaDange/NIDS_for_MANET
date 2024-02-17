@@ -1,4 +1,5 @@
 Network Intrusion Detection System for MANETs
+
 This project aims to develop a Network Intrusion Detection System (NIDS) specifically tailored for Mobile Ad-Hoc Networks (MANETs). MANETs present unique challenges due to their dynamic nature and resource constraints, making traditional intrusion detection techniques less effective.
 
 Table of Contents
